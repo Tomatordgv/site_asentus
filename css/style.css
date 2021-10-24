@@ -772,14 +772,14 @@ body {
     .footer__item-three {
         margin-bottom: 30px;
     }
-    .contact-info__wrap, .about-content__wrap {
+    .contact-info__wrap, .about-content__wrap, .latest-products__wrap {
         flex-wrap: wrap;
     }
     .contact-info__item {
         width: 100%;
         margin-bottom: 50px;
     }
-    .about-content__item-one, .about-content__item-two {
+    .about-content__item-one, .about-content__item-two, .latest-products__item {
         width: 100%;
     }
     .about-content__item-two {
